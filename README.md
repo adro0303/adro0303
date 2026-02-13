@@ -1,15 +1,15 @@
-# 👋 Hi there, I'm Adrian
+# Hi there, I'm Adrian
 
 BSc Artificial Intelligence student with a strong interest in **software development** and **automation**.  
 I use this GitHub to share projects around **AI**, programming, and hands-on technical experimentation — focused on learning through real problem solving and building practical systems.
 
 ---
 
-## 💼 About Me
-- 🎓 BSc Artificial Intelligence student  
-- 🧠 Interested in applying AI + software to real-world use cases  
-- 🛠️ Learning by building: automation, tools, prototypes, and end-to-end projects  
-- 📌 Main interests: software engineering, ML, and scalable systems  
+##  About Me
+-  BSc Artificial Intelligence student  
+-  Interested in applying AI + software to real-world use cases  
+-  Learning by building: automation, tools, prototypes, and end-to-end projects  
+-  Main interests: software engineering, ML, and scalable systems  
 
 ---
 
