@@ -14,7 +14,7 @@ I use this GitHub to share projects around **AI**, programming, and hands-on tec
 ---
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/adrianpliegoperez)
 
 ---
 
