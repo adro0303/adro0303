@@ -10,7 +10,20 @@ I use this GitHub to share projects around **AI**, backend development, and hand
 - Currently working on backend systems for a multi-tenant SaaS CRM  
 - Interested in applying AI + software to real-world use cases  
 - Learning by building: automation, APIs, tools, prototypes, and end-to-end projects  
-- Main interests: software engineering, applied AI, backend development, and scalable systems  
+- Main interests: software engineering, applied AI, backend development, and scalable systems
+
+---
+
+## Featured Projects
+
+### Macro News → US Market Returns
+PyTorch ML pipeline for forecasting ETF returns from macro news with walk-forward evaluation and cost-aware backtesting.
+
+### OpenSSH Log Anomaly Detection
+Security-focused anomaly detection pipeline using temporal feature engineering and unsupervised ML models.
+
+### Mandate-Based ETF Allocation
+Final year project exploring investor profiling and regime-aware portfolio allocation using ML and financial data.
 
 ---
 
