@@ -1,16 +1,18 @@
 # Hi there, I'm Adrian
 
-Computer Science & Artificial Intelligence graduate with a strong interest in **software engineering**, **applied AI**, and **automation**.  
-I use this GitHub to share projects around **AI**, backend development, and hands-on technical experimentation — focused on building practical systems and solving real-world problems.
+Computer Science & Artificial Intelligence graduate focused on software engineering, backend development, and applied AI.
+
+I use this GitHub to showcase projects around scalable systems, machine learning, automation, and practical software development — with a strong interest in building real-world products and end-to-end solutions.
 
 ---
 
 ## About Me
+
 - Computer Science & Artificial Intelligence graduate  
 - Currently working on backend systems for a multi-tenant SaaS CRM  
-- Interested in applying AI + software to real-world use cases  
-- Learning by building: automation, APIs, tools, prototypes, and end-to-end projects  
-- Main interests: software engineering, applied AI, backend development, and scalable systems
+- Interested in backend engineering, applied AI, and scalable architectures  
+- Experience building APIs, automation workflows, ML projects, and data-driven systems  
+- Strong interest in practical problem-solving and hands-on technical experimentation
 
 ---
 
