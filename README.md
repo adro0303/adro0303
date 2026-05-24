@@ -18,14 +18,20 @@ I use this GitHub to showcase projects around scalable systems, machine learning
 
 ## Featured Projects
 
-### [Macro News → US Market Returns](https://github.com/adro0303/NOMBRE-DEL-REPO)
-PyTorch ML pipeline for forecasting ETF returns from macroeconomic news, using walk-forward validation, baseline comparisons and cost-aware backtesting.
+### [Macro News → US Market Returns](https://github.com/adro0303/macro-news-market-forecasting)
+PyTorch ML pipeline for forecasting ETF returns from macroeconomic news, using walk-forward validation, baseline comparisons, automated reporting and cost-aware backtesting.
 
-### [OpenSSH Log Anomaly Detection](https://github.com/adro0303/NOMBRE-DEL-REPO)
-Security-focused anomaly detection pipeline using temporal feature engineering, weak supervision and unsupervised ML models.
+**Focus:** Applied ML · Financial Data · PyTorch · Time-Series Evaluation
 
-### [Mandate-Based ETF Allocation](https://github.com/adro0303/NOMBRE-DEL-REPO)
-Final year project exploring investor profiling, regime-aware ETF allocation and portfolio backtesting using financial data and ML.
+### [Mandate-Based ETF Allocation](https://github.com/adro0303/mandate-investor-profiling-fyp)
+Final year project exploring investor profiling, mandate prediction and regime-aware ETF portfolio allocation using machine learning and financial data.
+
+**Focus:** Machine Learning · Portfolio Allocation · Investor Profiling · Financial Modelling
+
+### [OpenSSH Log Anomaly Detection](https://github.com/adro0303/AI-LogAnomalyDetectionSystem)
+Security-focused anomaly detection pipeline for OpenSSH logs, using temporal feature engineering, weak supervision and unsupervised ML models.
+
+**Focus:** Cybersecurity · Anomaly Detection · Python · Unsupervised Learning
 
 ---
 
