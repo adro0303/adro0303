@@ -18,17 +18,14 @@ I use this GitHub to showcase projects around scalable systems, machine learning
 
 ## Featured Projects
 
-- Macro News → US Market Returns
+### [Macro News → US Market Returns](https://github.com/adro0303/NOMBRE-DEL-REPO)
+PyTorch ML pipeline for forecasting ETF returns from macroeconomic news, using walk-forward validation, baseline comparisons and cost-aware backtesting.
 
-PyTorch ML pipeline for forecasting ETF returns from macro news with walk-forward evaluation and cost-aware backtesting.
+### [OpenSSH Log Anomaly Detection](https://github.com/adro0303/NOMBRE-DEL-REPO)
+Security-focused anomaly detection pipeline using temporal feature engineering, weak supervision and unsupervised ML models.
 
-- OpenSSH Log Anomaly Detection
-
-Security-focused anomaly detection pipeline using temporal feature engineering and unsupervised ML models.
-
-- Mandate-Based ETF Allocation
-
-Final year project exploring investor profiling and regime-aware portfolio allocation using ML and financial data.
+### [Mandate-Based ETF Allocation](https://github.com/adro0303/NOMBRE-DEL-REPO)
+Final year project exploring investor profiling, regime-aware ETF allocation and portfolio backtesting using financial data and ML.
 
 ---
 
