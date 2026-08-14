@@ -17,14 +17,27 @@ then push them until they actually work, not just until the demo does.
 
 <br>
 
+```bash
+adrian@dev:~$ whoami
+junior software / ai developer
+
+adrian@dev:~$ ls ./projects
+ipa-builder/  auto_applyer/  quant-research/  log-anomaly-detection/
+
+adrian@dev:~$ cat motto.txt
+ship it -> see what breaks -> understand why -> fix it for real
+```
+
+<br>
+
 ## What I build
 
-|  |  |
-|---|---|
-| 🧠 **AI / ML pipelines** | Forecasting, anomaly detection, and applied research — built with PyTorch and scikit-learn, evaluated honestly |
-| 🔁 **Automation & tooling** | Python tools that replace repetitive manual work, with real safety rails instead of blind auto-pilot |
-| ⚙️ **Developer infrastructure** | CI/CD pipelines and small open-source tools that solve exactly one annoying problem |
-| 🧪 **Applied experiments** | Projects built to answer a specific question — including the ones where the answer wasn't flattering |
+<table>
+<tr><td>🧠&nbsp;<strong>AI / ML pipelines</strong></td><td>Forecasting, anomaly detection, and applied research — built with PyTorch and scikit-learn, evaluated honestly</td></tr>
+<tr><td>🔁&nbsp;<strong>Automation & tooling</strong></td><td>Python tools that replace repetitive manual work, with real safety rails instead of blind auto-pilot</td></tr>
+<tr><td>⚙️&nbsp;<strong>Developer infrastructure</strong></td><td>CI/CD pipelines and small open-source tools that solve exactly one annoying problem</td></tr>
+<tr><td>🧪&nbsp;<strong>Applied experiments</strong></td><td>Projects built to answer a specific question — including the ones where the answer wasn't flattering</td></tr>
+</table>
 
 <br>
 
@@ -112,9 +125,14 @@ Unsupervised anomaly detection over OpenSSH logs — flagging suspicious activit
 
 ## Tech stack
 
-**Core language**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **AI / Machine Learning**
 
@@ -124,7 +142,7 @@ Unsupervised anomaly detection over OpenSSH logs — flagging suspicious activit
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-**Automation & tooling**
+**Backend, automation & tooling**
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![CLI](https://img.shields.io/badge/CLI%20tools-4D4D4D?style=flat-square&logo=gnubash&logoColor=white)
@@ -137,7 +155,7 @@ Unsupervised anomaly detection over OpenSSH logs — flagging suspicious activit
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Also comfortable with** — Java · C++ *(academic/coursework projects)*
+<sub>**Primary focus:** Python, PyTorch/scikit-learn, GitHub Actions · **Also used, smaller/earlier projects:** JavaScript, Java, C++, HTML/CSS</sub>
 
 <br>
 
