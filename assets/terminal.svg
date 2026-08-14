@@ -13,15 +13,15 @@
     <circle cx="54" cy="16" r="6" fill="#27c93f"/>
     <text x="340" y="20" text-anchor="middle" font-size="12" fill="#8b949e">adrian@dev — zsh</text>
 
-    <g fill="#3fb950" font-size="11">
-      <text x="36" y="80">  .-----------.</text>
-      <text x="36" y="95">  |-----------|</text>
-      <text x="36" y="110">    |  |  |  |</text>
-      <text x="36" y="125">    |  |  |  |</text>
-      <text x="36" y="140">    |  |  |  |</text>
-      <text x="36" y="155">    |  |  |  |</text>
-      <text x="36" y="170">  .-----------.</text>
-      <text x="36" y="185">  |-----------|</text>
+    <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11">
+      <text x="38" y="76" fill="#8b949e"> [010] ^_^ [099]</text>
+      <text x="36" y="91" fill="#3fb950">+----------------+</text>
+      <text x="36" y="106"><tspan fill="#3fb950">|</tspan><tspan fill="#58A6FF">1 1 </tspan><tspan fill="#6e7681">. . </tspan><tspan fill="#58A6FF">1 </tspan><tspan fill="#f85149">F </tspan><tspan fill="#6e7681">. . </tspan><tspan fill="#3fb950">|</tspan></text>
+      <text x="36" y="121"><tspan fill="#3fb950">|</tspan><tspan fill="#c9d1d9"># </tspan><tspan fill="#3fb950">2 </tspan><tspan fill="#58A6FF">1 1 </tspan><tspan fill="#3fb950">2 2 </tspan><tspan fill="#58A6FF">1 </tspan><tspan fill="#6e7681">. </tspan><tspan fill="#3fb950">|</tspan></text>
+      <text x="36" y="136"><tspan fill="#3fb950">|</tspan><tspan fill="#c9d1d9"># 2 # </tspan><tspan fill="#58A6FF">1 1 </tspan><tspan fill="#c9d1d9"># </tspan><tspan fill="#58A6FF">1 </tspan><tspan fill="#6e7681">. </tspan><tspan fill="#3fb950">|</tspan></text>
+      <text x="36" y="151"><tspan fill="#3fb950">|</tspan><tspan fill="#c9d1d9"># </tspan><tspan fill="#58A6FF">1 1 1 </tspan><tspan fill="#c9d1d9"># </tspan><tspan fill="#3fb950">2 </tspan><tspan fill="#58A6FF">1 </tspan><tspan fill="#6e7681">. </tspan><tspan fill="#3fb950">|</tspan></text>
+      <text x="36" y="166"><tspan fill="#3fb950">|</tspan><tspan fill="#58A6FF">1 </tspan><tspan fill="#6e7681">. . . 1 1 . . </tspan><tspan fill="#3fb950">|</tspan></text>
+      <text x="36" y="181" fill="#3fb950">+----------------+</text>
     </g>
 
     <clipPath id="clipL1"><rect x="258" y="63" width="0" height="18"><animate attributeName="width" from="0" to="170" begin="0.3s" dur="0.6s" fill="freeze"/></rect></clipPath>
