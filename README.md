@@ -183,3 +183,10 @@ Open to junior backend, AI/ML, and Python engineering roles — and always up fo
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/adro0303)
 
 </div>
+
+<br>
+
+<div align="center">
+<img src="assets/plasma.svg" alt="ascii plasma easter egg" width="280" /><br>
+<sub><i>you scrolled this far — here's some ascii plasma 🌀</i></sub>
+</div>
