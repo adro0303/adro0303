@@ -17,16 +17,9 @@ then push them until they actually work, not just until the demo does.
 
 <br>
 
-```bash
-adrian@dev:~$ whoami
-junior software / ai developer
-
-adrian@dev:~$ ls ./projects
-ipa-builder/  auto_applyer/  quant-research/  log-anomaly-detection/
-
-adrian@dev:~$ cat motto.txt
-ship it -> see what breaks -> understand why -> fix it for real
-```
+<div align="center">
+  <img src="assets/terminal.svg" alt="Terminal: whoami -> junior software / ai developer, ls ./projects -> ipa-builder auto_applyer quant-research, cat motto.txt -> ship it, see what breaks, fix it for real" width="680" />
+</div>
 
 <br>
 
