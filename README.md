@@ -1,88 +1,174 @@
-# Hi there, I'm Adrian
+<div align="center">
 
-Computer Science & Artificial Intelligence graduate focused on software engineering, backend development, and applied AI.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+%26+AI+Developer;Backend+systems+%E2%80%A2+ML+pipelines+%E2%80%A2+automation;Learning+by+shipping%2C+not+just+studying" alt="Typing SVG" />
 
-I use this GitHub to showcase projects around scalable systems, machine learning, automation, and practical software development — with a strong interest in building real-world products and end-to-end solutions.
+# Hi, I'm Adrian 👋
 
----
+**Junior Software / AI Developer who'd rather ship a rough prototype than read one more tutorial.**
 
-## About Me
+I build backend systems, ML pipelines, and small tools that solve one problem well —
+then push them until they actually work, not just until the demo does.
 
-- Computer Science & Artificial Intelligence graduate  
-- Currently working on backend systems for a multi-tenant SaaS CRM  
-- Interested in backend engineering, applied AI, and scalable architectures  
-- Experience building APIs, automation workflows, ML projects, and data-driven systems  
-- Strong interest in practical problem-solving and hands-on technical experimentation
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianpliegoperez/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adroplpe@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/adro0303)
 
----
+</div>
 
-## Featured Projects
+<br>
 
-### [Macro News → US Market Returns](https://github.com/adro0303/macro-news-market-forecasting)
-PyTorch ML pipeline for forecasting ETF returns from macroeconomic news, using walk-forward validation, baseline comparisons, automated reporting and cost-aware backtesting.
+## What I build
 
-**Focus:** Applied ML · Financial Data · PyTorch · Time-Series Evaluation
+|  |  |
+|---|---|
+| 🧠 **AI / ML pipelines** | Forecasting, anomaly detection, and applied research — built with PyTorch and scikit-learn, evaluated honestly |
+| 🔁 **Automation & tooling** | Python tools that replace repetitive manual work, with real safety rails instead of blind auto-pilot |
+| ⚙️ **Developer infrastructure** | CI/CD pipelines and small open-source tools that solve exactly one annoying problem |
+| 🧪 **Applied experiments** | Projects built to answer a specific question — including the ones where the answer wasn't flattering |
 
-### [Mandate-Based ETF Allocation](https://github.com/adro0303/mandate-investor-profiling-fyp)
-Final year project exploring investor profiling, mandate prediction and regime-aware ETF portfolio allocation using machine learning and financial data.
+<br>
 
-**Focus:** Machine Learning · Portfolio Allocation · Investor Profiling · Financial Modelling
+## Featured projects
 
-### [OpenSSH Log Anomaly Detection](https://github.com/adro0303/AI-LogAnomalyDetectionSystem)
-Security-focused anomaly detection pipeline for OpenSSH logs, using temporal feature engineering, weak supervision and unsupervised ML models.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Focus:** Cybersecurity · Anomaly Detection · Python · Unsupervised Learning
+### 🚀 [ipa-builder](https://github.com/adro0303/ipa-builder)
 
----
+Open-source pipeline that builds unsigned iOS `.ipa` files in the cloud — no Mac, no $99/year Apple Developer account.
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianpliegoperez/)
+**Problem:** testing your own iOS app normally means owning a Mac or paying Apple.
+**Built:** a GitHub Actions workflow that spins up a macOS runner to compile any Expo/React Native project, using scoped fine-grained tokens to securely check out a *different* target repo.
 
----
+`GitHub Actions` `macOS runners` `Bash / YAML` `gh CLI`
 
-## 💻 Tech Stack
+**Why it's interesting:** it's pure CI/infrastructure engineering — no app code, just a secure, reusable build pipeline solving a real cost problem.
 
-### Core Languages
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+→ [View project](https://github.com/adro0303/ipa-builder)
 
-### Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+</td>
+<td width="50%" valign="top">
 
-### Databases & Data Engineering
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery%20Basics-669DF6.svg?style=for-the-badge&logo=googlebigquery&logoColor=white)
+### 🤖 [auto_applyer](https://github.com/adro0303/auto_applyer)
 
-### AI / ML / Data Science
-![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+Local-first Python tool that automates job-outreach *without* turning into a spam bot.
 
-### Cloud / BI / Automation
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20Basics-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS%20Basics-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Metabase](https://img.shields.io/badge/Metabase%20Basics-509EE3.svg?style=for-the-badge&logo=metabase&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n%20Basics-EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
+**Problem:** manual outreach doesn't scale, but full automation is how you burn your reputation.
+**Built:** a CLI + Streamlit dashboard covering lead import, draft generation, manual approval, dry-run checks, rate-limited SMTP sending, and delivery reports.
 
-### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux%20Basics-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+`Python` `Streamlit` `SMTP` `CLI design`
 
-### Additional Languages / Academic Experience
-![R](https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+**Why it's interesting:** live sending requires `AUTO_SEND_ENABLED=true` *and* typing `SEND LIVE` — product thinking applied to a personal scripting problem.
+
+→ [View project](https://github.com/adro0303/auto_applyer)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 Quant research — [macro news forecasting](https://github.com/adro0303/macro-news-market-forecasting) · [mandate investor profiling](https://github.com/adro0303/mandate-investor-profiling-fyp)
+
+Two-part BSc final year project: can daily macro news predict next-day ETF returns, and can investor "mandates" (not just a risk score) drive better portfolio allocation?
+
+**Built:** a PyTorch MLP vs. 5 classical baselines under strict walk-forward validation for the forecasting side; a Random Forest mandate predictor feeding a regime-aware, backtested ETF allocator on the portfolio side.
+
+`Python` `PyTorch` `scikit-learn` `pandas`
+
+**Why it's interesting:** both repos report the results that *didn't* work too — e.g. the Markowitz baseline beating the mandate strategy on Sharpe — instead of only showing wins.
+
+→ [Forecasting](https://github.com/adro0303/macro-news-market-forecasting) · [Portfolio allocation](https://github.com/adro0303/mandate-investor-profiling-fyp)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 [AI-LogAnomalyDetectionSystem](https://github.com/adro0303/AI-LogAnomalyDetectionSystem)
+
+Unsupervised anomaly detection over OpenSSH logs — flagging suspicious activity without labeled attack data.
+
+**Problem:** in security logs, "normal" vastly outweighs "attack," and clean labels rarely exist.
+**Built:** a config-driven pipeline (Isolation Forest, LOF, One-Class SVM) with temporal feature engineering, weak-label heuristics for evaluation, and PR-AUC/Recall@K as proxy metrics.
+
+`Python` `scikit-learn` `Docker` `pytest` `GitHub Actions`
+
+**Why it's interesting:** forces careful evaluation design when ground truth barely exists — accuracy alone would be meaningless here.
+
+→ [View project](https://github.com/adro0303/AI-LogAnomalyDetectionSystem)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Currently building
+
+- 🔧 Actively iterating on **[ipa-builder](https://github.com/adro0303/ipa-builder)** — my most recently pushed project, open source and open to issues/PRs
+- 📊 Working through the next steps I flagged myself in the FYP repos — time-series cross-validation and better regime coverage for the portfolio backtests
+- 🧰 Looking for the next small, annoying manual task worth turning into a tool — that's how `auto_applyer` started
+
+<br>
+
+## Tech stack
+
+**Core language**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**AI / Machine Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Automation & tooling**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI%20tools-4D4D4D?style=flat-square&logo=gnubash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML%20configs-CB171E?style=flat-square&logo=yaml&logoColor=white)
+
+**CI/CD & DevOps**
+
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Also comfortable with** — Java · C++ *(academic/coursework projects)*
+
+<br>
+
+## Engineering mindset
+
+- Prototype first, read the docs when it breaks — not before
+- One command that runs the whole pipeline beats ten manual steps in a README
+- Walk-forward validation isn't optional when the whole point is "did this actually generalize"
+- If a project of mine has a `Limitations` section, I probably wrote it myself before anyone had to ask
+
+<br>
+
+## GitHub activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=adro0303&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" width="48%" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adro0303&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" width="40%" alt="Top languages" />
+
+</div>
+
+<br>
+
+## Let's connect
+
+Open to junior backend, AI/ML, and Python engineering roles — and always up for talking about a weird technical idea.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianpliegoperez/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adroplpe@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/adro0303)
+
+</div>
