@@ -18,7 +18,7 @@ then push them until they actually work, not just until the demo does.
 <br>
 
 <div align="center">
-  <img src="assets/terminal.svg" alt="Terminal: whoami -> junior software / ai developer, ls ./projects -> ipa-builder auto_applyer quant-research, cat motto.txt -> ship it, see what breaks, fix it for real" width="680" />
+  <img src="assets/terminal.svg" alt="Terminal: whoami -> junior software / ai developer, ls ./projects -> ipa-builder auto_applyer quant-research, cat motto.txt -> ship it, see what breaks, fix it for real" width="100%" />
 </div>
 
 <br>
@@ -164,10 +164,7 @@ Unsupervised anomaly detection over OpenSSH logs — flagging suspicious activit
 ## GitHub activity
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=adro0303&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" width="48%" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adro0303&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" width="40%" alt="Top languages" />
-
+  <img src="assets/stats.svg" alt="GitHub snapshot: language breakdown and repo count" width="100%" />
 </div>
 
 <br>
@@ -187,6 +184,6 @@ Open to junior backend, AI/ML, and Python engineering roles — and always up fo
 <br>
 
 <div align="center">
-<img src="assets/plasma.svg" alt="ascii plasma easter egg" width="280" /><br>
+<img src="assets/plasma.svg" alt="ascii plasma easter egg" width="100%" /><br>
 <sub><i>you scrolled this far — here's some ascii plasma 🌀</i></sub>
 </div>
