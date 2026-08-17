@@ -16,10 +16,10 @@ then push them until they actually work, not just until the demo does.
 <br><br>
 
 <a href="https://landing-page-phi-one-98.vercel.app/">
-  <img src="assets/portfolio-preview.jpg" alt="Preview of my portfolio landing page — a terminal-themed boot screen" width="85%" style="border-radius:8px;border:1px solid #30363d;" />
+  <img src="assets/portfolio-icon.svg" alt="Portfolio site icon" width="72" height="72" />
 </a>
 
-**👉 [landing-page-phi-one-98.vercel.app](https://landing-page-phi-one-98.vercel.app/) — click the preview above, projects & case studies await**
+**👉 [landing-page-phi-one-98.vercel.app](https://landing-page-phi-one-98.vercel.app/) — go take a look, it doesn't bite**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianpliegoperez/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adroplpe@gmail.com)
