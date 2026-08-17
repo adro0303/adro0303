@@ -9,12 +9,12 @@
 I build backend systems, ML pipelines, and small tools that solve one problem well —
 then push them until they actually work, not just until the demo does.
 
-<a href="https://landing-page-phi-one-98.vercel.app/">
+<a href="https://adrian-pliego.vercel.app/">
   <img src="https://img.shields.io/badge/🚀_SEE_MY_WORK_LIVE-Visit_Portfolio-39FF88?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="Visit Portfolio" /><br/>
   <img src="assets/portfolio-icon.svg" alt="Portfolio site icon" width="72" height="72" />
 </a>
 
-**👉 [landing-page-phi-one-98.vercel.app](https://landing-page-phi-one-98.vercel.app/) — go take a look, it doesn't bite**
+**👉 [adrian-pliego.vercel.app](https://adrian-pliego.vercel.app/) — go take a look, it doesn't bite**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianpliegoperez/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adroplpe@gmail.com)
@@ -182,7 +182,7 @@ Open to junior backend, AI/ML, and Python engineering roles — and always up fo
 
 <div align="center">
 
-<a href="https://landing-page-phi-one-98.vercel.app/">
+<a href="https://adrian-pliego.vercel.app/">
   <img src="https://img.shields.io/badge/🚀_EXPLORE_MY_PORTFOLIO-39FF88?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="Visit Portfolio" />
 </a>
 
