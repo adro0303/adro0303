@@ -10,12 +10,7 @@ I build backend systems, ML pipelines, and small tools that solve one problem we
 then push them until they actually work, not just until the demo does.
 
 <a href="https://landing-page-phi-one-98.vercel.app/">
-  <img src="https://img.shields.io/badge/🚀_SEE_MY_WORK_LIVE-Visit_Portfolio-FF6B00?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Visit Portfolio" />
-</a>
-
-<br><br>
-
-<a href="https://landing-page-phi-one-98.vercel.app/">
+  <img src="https://img.shields.io/badge/🚀_SEE_MY_WORK_LIVE-Visit_Portfolio-39FF88?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="Visit Portfolio" /><br/>
   <img src="assets/portfolio-icon.svg" alt="Portfolio site icon" width="72" height="72" />
 </a>
 
@@ -188,7 +183,7 @@ Open to junior backend, AI/ML, and Python engineering roles — and always up fo
 <div align="center">
 
 <a href="https://landing-page-phi-one-98.vercel.app/">
-  <img src="https://img.shields.io/badge/🚀_EXPLORE_MY_PORTFOLIO-FF6B00?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Visit Portfolio" />
+  <img src="https://img.shields.io/badge/🚀_EXPLORE_MY_PORTFOLIO-39FF88?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="Visit Portfolio" />
 </a>
 
 <br><br>
