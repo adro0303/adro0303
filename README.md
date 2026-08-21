@@ -82,18 +82,18 @@ Open-source pipeline that builds unsigned iOS `.ipa` files in the cloud — no M
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 [abCPLUS](https://github.com/adro0303/abCPLUS)
+### 🖥️ [landing-page (ADRO_OS)](https://github.com/adro0303/landing-page)
 
-A console-driven hospital management system in modern C++ — no framework, no database engine, just STL, files, and clean object design.
+The retro-terminal-OS portfolio this README keeps pointing you to — boot sequence, a cursor-reactive canvas hero, and six real projects each visualized with a metaphor matched to what they actually do.
 
-**Problem:** practice object-oriented system design without leaning on a framework — model real relationships between entities instead of writing another script.
-**Built:** four cooperating classes (`Paciente`, `Medico`, `Cita`, `Sistema`) that own the full data lifecycle — load → mutate → persist — with CSV import/export and a manual backup/restore path.
+**Problem:** a conventional Hero → About → Skills → Projects page doesn't say anything about how you build.
+**Built:** Vite + React 19 + TypeScript, hand-rolled canvas2D renderers (no WebGL) — including a hidden ASCII bust generated from a real photo via luminance + Sobel edge detection — plus GSAP-pinned scroll and Framer Motion reveals.
 
-`C++20` `CMake` `OOP` `SOLID-minded design`
+`React` `TypeScript` `Vite` `Tailwind CSS` `GSAP` `Vercel`
 
-**Why it's interesting:** `Cita` holds pointers to `Paciente` and `Medico` instead of duplicating their data — encapsulation and single-responsibility applied on purpose, not by accident.
+**Why it's interesting:** `useDeviceCapability` adapts canvas density to `prefers-reduced-motion`, touch input, and device power instead of shipping one animation for everyone — performance as a constraint, not an afterthought.
 
-→ [View project](https://github.com/adro0303/abCPLUS)
+→ [View project](https://github.com/adro0303/landing-page) · [Live site](https://adrian-pliego.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
