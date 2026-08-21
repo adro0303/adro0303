@@ -25,7 +25,7 @@ then push them until they actually work, not just until the demo does.
 <br>
 
 <div align="center">
-  <img src="assets/terminal.svg" alt="Terminal: whoami -> junior software / ai developer, ls ./projects -> ipa-builder auto_applyer quant-research, cat motto.txt -> ship it, see what breaks, fix it for real" width="100%" />
+  <img src="assets/terminal.svg" alt="Terminal: whoami -> junior software / ai developer, ls ./projects -> ipa-builder overclaude quant-research, cat motto.txt -> ship it, see what breaks, fix it for real" width="100%" />
 </div>
 
 <br>
@@ -36,6 +36,7 @@ then push them until they actually work, not just until the demo does.
 <tr><td>🧠&nbsp;<strong>AI / ML pipelines</strong></td><td>Forecasting, anomaly detection, and applied research — built with PyTorch and scikit-learn, evaluated honestly</td></tr>
 <tr><td>🔁&nbsp;<strong>Automation & tooling</strong></td><td>Python tools that replace repetitive manual work, with real safety rails instead of blind auto-pilot</td></tr>
 <tr><td>⚙️&nbsp;<strong>Developer infrastructure</strong></td><td>CI/CD pipelines and small open-source tools that solve exactly one annoying problem</td></tr>
+<tr><td>🧩&nbsp;<strong>Systems & OOP design</strong></td><td>Modeling real entities and relationships with SOLID-minded C++/Java, not defaulting to a framework because it's expected</td></tr>
 <tr><td>🧪&nbsp;<strong>Applied experiments</strong></td><td>Projects built to answer a specific question — including the ones where the answer wasn't flattering</td></tr>
 </table>
 
@@ -45,6 +46,22 @@ then push them until they actually work, not just until the demo does.
 
 <table>
 <tr>
+<td width="50%" valign="top">
+
+### 🧠 [overclaude](https://github.com/adro0303/overclaude)
+
+A curated, pre-wired setup for Claude Code that combines the best community add-ons into one install — instead of five separate repos you'd have to find, compare, and glue together yourself.
+
+**Problem:** Claude Code's ecosystem has a dozen good ideas scattered across a dozen repos, several solving the same problem twice.
+**Built:** benchmarked the candidates (e.g. `codebase-memory-mcp` vs. Graphify), kept only the pieces that won, and wired them into one script — knowledge graph, on-demand internet access, mobile/Telegram remote control, and original notification hooks.
+
+`Shell` `MCP` `Claude Code hooks` `Telegram`
+
+**Why it's interesting:** zero inbound ports and an opt-in, off-by-default support nudge — the same "don't be sneaky" product instinct as `auto_applyer`, applied to dev tooling instead of outreach.
+
+→ [View project](https://github.com/adro0303/overclaude)
+
+</td>
 <td width="50%" valign="top">
 
 ### 🚀 [ipa-builder](https://github.com/adro0303/ipa-builder)
@@ -61,24 +78,24 @@ Open-source pipeline that builds unsigned iOS `.ipa` files in the cloud — no M
 → [View project](https://github.com/adro0303/ipa-builder)
 
 </td>
-<td width="50%" valign="top">
-
-### 🤖 [auto_applyer](https://github.com/adro0303/auto_applyer)
-
-Local-first Python tool that automates job-outreach *without* turning into a spam bot.
-
-**Problem:** manual outreach doesn't scale, but full automation is how you burn your reputation.
-**Built:** a CLI + Streamlit dashboard covering lead import, draft generation, manual approval, dry-run checks, rate-limited SMTP sending, and delivery reports.
-
-`Python` `Streamlit` `SMTP` `CLI design`
-
-**Why it's interesting:** live sending requires `AUTO_SEND_ENABLED=true` *and* typing `SEND LIVE` — product thinking applied to a personal scripting problem.
-
-→ [View project](https://github.com/adro0303/auto_applyer)
-
-</td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+### 🏥 [abCPLUS](https://github.com/adro0303/abCPLUS)
+
+A console-driven hospital management system in modern C++ — no framework, no database engine, just STL, files, and clean object design.
+
+**Problem:** practice object-oriented system design without leaning on a framework — model real relationships between entities instead of writing another script.
+**Built:** four cooperating classes (`Paciente`, `Medico`, `Cita`, `Sistema`) that own the full data lifecycle — load → mutate → persist — with CSV import/export and a manual backup/restore path.
+
+`C++20` `CMake` `OOP` `SOLID-minded design`
+
+**Why it's interesting:** `Cita` holds pointers to `Paciente` and `Medico` instead of duplicating their data — encapsulation and single-responsibility applied on purpose, not by accident.
+
+→ [View project](https://github.com/adro0303/abCPLUS)
+
+</td>
 <td width="50%" valign="top">
 
 ### 📈 Quant research — [macro news forecasting](https://github.com/adro0303/macro-news-market-forecasting) · [mandate investor profiling](https://github.com/adro0303/mandate-investor-profiling-fyp)
@@ -92,6 +109,24 @@ Two-part BSc final year project: can daily macro news predict next-day ETF retur
 **Why it's interesting:** both repos report the results that *didn't* work too — e.g. the Markowitz baseline beating the mandate strategy on Sharpe — instead of only showing wins.
 
 → [Forecasting](https://github.com/adro0303/macro-news-market-forecasting) · [Portfolio allocation](https://github.com/adro0303/mandate-investor-profiling-fyp)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 [youtube-ai-pipeline](https://github.com/adro0303/youtube-ai-pipeline)
+
+Self-hosted pipeline that turns a script into a narrated, AI-illustrated video — entirely on local hardware.
+
+**Problem:** generate narrated AI-image videos end-to-end without paying for cloud inference.
+**Built:** n8n orchestrates a fully local flow — Kokoro TTS, ComfyUI (Krea2 Turbo + a style-reference LoRA) for character-consistent scene images, and an ffmpeg assembly service.
+
+`n8n` `ComfyUI` `Kokoro TTS` `Docker Compose`
+
+**Why it's interesting:** documents real hardware limits honestly — 6GB VRAM minimum, ~30GB peak RAM, ~90s per image — instead of glossing over what it actually takes to run.
+
+→ [View project](https://github.com/adro0303/youtube-ai-pipeline)
 
 </td>
 <td width="50%" valign="top">
@@ -117,7 +152,8 @@ Unsupervised anomaly detection over OpenSSH logs — flagging suspicious activit
 
 ## Currently building
 
-- 🔧 Actively iterating on **[ipa-builder](https://github.com/adro0303/ipa-builder)** — my most recently pushed project, open source and open to issues/PRs
+- 🔧 Actively iterating on **[overclaude](https://github.com/adro0303/overclaude)** — my most recently pushed project, open source and open to issues/PRs
+- 🖥️ Rebuilt my [portfolio site](https://adrian-pliego.vercel.app/) from scratch as **ADRO_OS** — React 19 + TypeScript + Vite, deployed on Vercel
 - 📊 Working through the next steps I flagged myself in the FYP repos — time-series cross-validation and better regime coverage for the portfolio backtests
 - 🧰 Looking for the next small, annoying manual task worth turning into a tool — that's how `auto_applyer` started
 
@@ -148,14 +184,28 @@ Unsupervised anomaly detection over OpenSSH logs — flagging suspicious activit
 ![CLI](https://img.shields.io/badge/CLI%20tools-4D4D4D?style=flat-square&logo=gnubash&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML%20configs-CB171E?style=flat-square&logo=yaml&logoColor=white)
 
-**CI/CD & DevOps**
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**CI/CD, DevOps & hosting**
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-<sub>**Primary focus:** Python, PyTorch/scikit-learn, GitHub Actions · **Also used, smaller/earlier projects:** JavaScript, Java, C++, HTML/CSS</sub>
+**Practices**
+
+![Agile](https://img.shields.io/badge/Agile-Scrum%20%2F%20Kanban-0052CC?style=flat-square&logo=jirasoftware&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID-principles-4B8BBE?style=flat-square)
+![OOP](https://img.shields.io/badge/OOP-object--oriented%20design-2E8B57?style=flat-square)
+
+<sub>**Primary focus:** Python, PyTorch/scikit-learn, GitHub Actions · **Also used:** React/TypeScript (current portfolio, Vercel-deployed), Java, C++, HTML/CSS</sub>
 
 <br>
 
@@ -165,6 +215,8 @@ Unsupervised anomaly detection over OpenSSH logs — flagging suspicious activit
 - One command that runs the whole pipeline beats ten manual steps in a README
 - Walk-forward validation isn't optional when the whole point is "did this actually generalize"
 - If a project of mine has a `Limitations` section, I probably wrote it myself before anyone had to ask
+- Reach for OOP + SOLID when the domain has real entities and relationships to model — see [`abCPLUS`](https://github.com/adro0303/abCPLUS)'s `Paciente`/`Medico`/`Cita` design — not just because it's expected
+- Work in short, iterative loops with visible scope cuts and honest retros — Agile as a working habit, not a slide
 
 <br>
 
