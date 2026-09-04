@@ -54,6 +54,7 @@ Full details → [résumé (PDF)](https://adrian-pliego.vercel.app/resume.pdf) �
 <tr><td><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"></td><td>University coursework — OOP fundamentals (Minesweeper, recursion exercises)</td></tr>
 <tr><td><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"></td><td>University coursework — <a href="https://github.com/adro0303/HospitalManager">HospitalManager</a>, a C++20/STL hospital management system</td></tr>
 <tr><td><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"></td><td>Personal static sites and portfolio base styling</td></tr>
+<tr><td><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"></td><td>PostgreSQL at Authect, SQLite in <code>auto_applyer</code> — schema and query work across both</td></tr>
 </table>
 
 **AI / Machine Learning**
@@ -71,12 +72,19 @@ Full details → [résumé (PDF)](https://adrian-pliego.vercel.app/resume.pdf) �
 <tr><td><img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"></td><td>Production at Authect (1+ yr) — the multi-tenant SaaS backend behind the whole product</td></tr>
 <tr><td><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"></td><td><code>auto_applyer</code>'s full dashboard and lead/draft database</td></tr>
 <tr><td><img src="https://img.shields.io/badge/CLI%20tools-4D4D4D?style=flat-square&logo=gnubash&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/YAML%20configs-CB171E?style=flat-square&logo=yaml&logoColor=white"></td><td>Automation and config across <code>ipa-builder</code>, <code>overclaude</code>, and <code>pocket-server</code></td></tr>
+<tr><td><img src="https://img.shields.io/badge/SMTP-4D4D4D?style=flat-square&logo=gmail&logoColor=white"></td><td><code>auto_applyer</code>'s email drafting and send pipeline, gated behind manual approval</td></tr>
+</table>
+
+**Local AI infra**
+
+<table>
+<tr><td><img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/ComfyUI-2B2B2B?style=flat-square">&nbsp;<img src="https://img.shields.io/badge/Kokoro%20TTS-4D4D4D?style=flat-square">&nbsp;<img src="https://img.shields.io/badge/ffmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white"></td><td><code>youtube-ai-pipeline</code> — fully local, self-hosted narrated-video generation, no cloud inference</td></tr>
 </table>
 
 **Frontend**
 
 <table>
-<tr><td><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">&nbsp;<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"></td><td>Rebuilt my portfolio (ADRO_OS) from scratch, plus the <code>ai-tools</code> interactive demos</td></tr>
+<tr><td><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">&nbsp;<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white"></td><td>Rebuilt my portfolio (ADRO_OS) from scratch — GSAP-pinned scroll, Framer Motion reveals — plus the <code>ai-tools</code> interactive demos</td></tr>
 </table>
 
 **CI/CD, DevOps & hosting**
@@ -86,6 +94,7 @@ Full details → [résumé (PDF)](https://adrian-pliego.vercel.app/resume.pdf) �
 <tr><td><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"></td><td>Production at Authect — also containerized in 4+ personal projects</td></tr>
 <tr><td><img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"></td><td><code>AI-LogAnomalyDetectionSystem</code>'s automated test suite</td></tr>
 <tr><td><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"></td><td>Daily, across every professional and personal project</td></tr>
+<tr><td><img src="https://img.shields.io/badge/gh%20CLI-181717?style=flat-square&logo=github&logoColor=white"></td><td><code>ipa-builder</code>'s scoped, fine-grained checkout of a separate target repo</td></tr>
 <tr><td><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"></td><td>Hosts my live portfolio</td></tr>
 </table>
 
