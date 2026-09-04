@@ -33,11 +33,11 @@ then push them until they actually work, not just until the demo does.
 
 Before software: sales at an **insurance company** (Generali Seguros) and an IT internship in **network & systems support** (Mais Informática) — part of why I default to explaining technical work in plain language instead of jargon.
 
-| | |
-|---|---|
-| 🏢 **Sectors** | SaaS / B2B software, insurance, IT support |
-| 🗣️ **Languages** | Native Spanish, C1 English (BSc coursework and exams taken in English, in the UK) |
-| 🎓 **Education** | BSc Artificial Intelligence — Coventry University (Upper Second Class Honours) |
+<table>
+<tr><td>🏢&nbsp;<strong>Sectors</strong></td><td>SaaS / B2B software, insurance, IT support</td></tr>
+<tr><td>🗣️&nbsp;<strong>Languages</strong></td><td>Native Spanish, C1 English (BSc coursework and exams taken in English, in the UK)</td></tr>
+<tr><td>🎓&nbsp;<strong>Education</strong></td><td>BSc Artificial Intelligence — Coventry University (Upper Second Class Honours)</td></tr>
+</table>
 
 Full details → [résumé (PDF)](https://adrian-pliego.vercel.app/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/adrianpliegoperez/)
 
