@@ -43,9 +43,58 @@ Full details → [résumé (PDF)](https://adrian-pliego.vercel.app/resume.pdf) �
 
 <br>
 
-<div align="center">
-  <img src="assets/terminal.svg" alt="Terminal: whoami -> junior software / ai developer, ls ./projects -> ipa-builder overclaude quant-research, cat motto.txt -> ship it, see what breaks, fix it for real" width="100%" />
-</div>
+## Tech stack — with where I actually used it
+
+**Languages**
+
+<table>
+<tr><td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"></td><td>Production at Authect (1+ yr) — also my primary language across every personal ML/automation project</td></tr>
+<tr><td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"></td><td>Production at Authect (backend + frontend, 1+ yr) — also my portfolio site</td></tr>
+<tr><td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"></td><td>Personal projects — browser extension, portfolio tooling</td></tr>
+<tr><td><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"></td><td>University coursework — OOP fundamentals (Minesweeper, recursion exercises)</td></tr>
+<tr><td><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"></td><td>University coursework — <a href="https://github.com/adro0303/abCPLUS">abCPLUS</a>, a C++20/STL hospital management system</td></tr>
+<tr><td><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"></td><td>Personal static sites and portfolio base styling</td></tr>
+</table>
+
+**AI / Machine Learning**
+
+<table>
+<tr><td><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"></td><td>BSc final year project — built an MLP from scratch, benchmarked against 5 classical baselines</td></tr>
+<tr><td><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"></td><td>3 personal projects — anomaly detection, market forecasting, investor profiling</td></tr>
+<tr><td><img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"></td><td>Data pipeline for every ML project I've built, including a from-scratch neural net trained with NumPy alone</td></tr>
+<tr><td><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"></td><td>Research and prototyping across all of the above</td></tr>
+</table>
+
+**Backend, automation & tooling**
+
+<table>
+<tr><td><img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"></td><td>Production at Authect (1+ yr) — the multi-tenant SaaS backend behind the whole product</td></tr>
+<tr><td><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"></td><td><code>auto_applyer</code>'s full dashboard and lead/draft database</td></tr>
+<tr><td><img src="https://img.shields.io/badge/CLI%20tools-4D4D4D?style=flat-square&logo=gnubash&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/YAML%20configs-CB171E?style=flat-square&logo=yaml&logoColor=white"></td><td>Automation and config across <code>ipa-builder</code>, <code>overclaude</code>, and <code>pocket-server</code></td></tr>
+</table>
+
+**Frontend**
+
+<table>
+<tr><td><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">&nbsp;<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"></td><td>Rebuilt my portfolio (ADRO_OS) from scratch, plus the <code>ai-tools</code> interactive demos</td></tr>
+</table>
+
+**CI/CD, DevOps & hosting**
+
+<table>
+<tr><td><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"></td><td>Production releases at Authect — also what <code>ipa-builder</code>'s entire build pipeline runs on</td></tr>
+<tr><td><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"></td><td>Production at Authect — also containerized in 4+ personal projects</td></tr>
+<tr><td><img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"></td><td><code>AI-LogAnomalyDetectionSystem</code>'s automated test suite</td></tr>
+<tr><td><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"></td><td>Daily, across every professional and personal project</td></tr>
+<tr><td><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"></td><td>Hosts my live portfolio</td></tr>
+</table>
+
+**Practices**
+
+<table>
+<tr><td><img src="https://img.shields.io/badge/Agile-Scrum%20%2F%20Kanban-0052CC?style=flat-square&logo=jirasoftware&logoColor=white"></td><td>Practiced daily leading a 4-person team at Authect — short iterations, re-planning when priorities shift</td></tr>
+<tr><td><img src="https://img.shields.io/badge/SOLID-principles-4B8BBE?style=flat-square">&nbsp;<img src="https://img.shields.io/badge/OOP-object--oriented%20design-2E8B57?style=flat-square"></td><td>Applied in <code>abCPLUS</code>'s <code>Paciente</code>/<code>Medico</code>/<code>Cita</code> design (see Engineering mindset below)</td></tr>
+</table>
 
 <br>
 
@@ -213,60 +262,6 @@ Local tool that automates the boring parts of a job search — without turning i
 
 <br>
 
-## Tech stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**AI / Machine Learning**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-**Backend, automation & tooling**
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI%20tools-4D4D4D?style=flat-square&logo=gnubash&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML%20configs-CB171E?style=flat-square&logo=yaml&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**CI/CD, DevOps & hosting**
-
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-**Practices**
-
-![Agile](https://img.shields.io/badge/Agile-Scrum%20%2F%20Kanban-0052CC?style=flat-square&logo=jirasoftware&logoColor=white)
-![SOLID](https://img.shields.io/badge/SOLID-principles-4B8BBE?style=flat-square)
-![OOP](https://img.shields.io/badge/OOP-object--oriented%20design-2E8B57?style=flat-square)
-
-<sub>**Production (day job):** Python, TypeScript, NestJS, Prisma, PostgreSQL, Docker · **Also used:** PyTorch/scikit-learn, React/TypeScript (current portfolio, Vercel-deployed), Java, C++, HTML/CSS</sub>
-
-<br>
-
 ## Engineering mindset
 
 - Prototype first, read the docs when it breaks — not before
@@ -275,6 +270,12 @@ Local tool that automates the boring parts of a job search — without turning i
 - If a project of mine has a `Limitations` section, I probably wrote it myself before anyone had to ask
 - Reach for OOP + SOLID when the domain has real entities and relationships to model — see [`abCPLUS`](https://github.com/adro0303/abCPLUS)'s `Paciente`/`Medico`/`Cita` design — not just because it's expected
 - Work in short, iterative loops with visible scope cuts and honest retros — Agile as a working habit, not a slide
+
+<br>
+
+<div align="center">
+  <img src="assets/terminal.svg" alt="Terminal: whoami -> junior software / ai developer, ls ./projects -> ipa-builder overclaude quant-research, cat motto.txt -> ship it, see what breaks, fix it for real" width="100%" />
+</div>
 
 <br>
 
