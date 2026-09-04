@@ -48,55 +48,55 @@ Full details → [résumé (PDF)](https://adrian-pliego.vercel.app/resume.pdf) �
 **Languages**
 
 <table>
-<tr><td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"></td><td>Production at Authect (1+ yr) — also my primary language across every personal ML/automation project</td></tr>
-<tr><td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"></td><td>Production at Authect (backend + frontend, 1+ yr) — also my portfolio site</td></tr>
-<tr><td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"></td><td>Personal projects — browser extension, portfolio tooling (6+ mo)</td></tr>
-<tr><td><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"></td><td>University coursework — OOP fundamentals (Minesweeper, recursion exercises) (6+ mo)</td></tr>
-<tr><td><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"></td><td>University coursework — <a href="https://github.com/adro0303/HospitalManager">HospitalManager</a>, a C++20/STL hospital management system (6+ mo)</td></tr>
-<tr><td><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"></td><td>Personal static sites and portfolio base styling (6+ mo each)</td></tr>
-<tr><td><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"></td><td>PostgreSQL at Authect, SQLite in <code>auto_applyer</code> — schema and query work across both (6+ mo)</td></tr>
-<tr><td><img src="https://img.shields.io/badge/Shell%20%2F%20Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"></td><td>Automation and config scripting across <code>ipa-builder</code>, <code>overclaude</code>, and <code>pocket-server</code> (1-2 yr)</td></tr>
+<tr><td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"></td><td><strong>1+ yr</strong> — Production at Authect, also my primary language across every personal ML/automation project</td></tr>
+<tr><td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"></td><td><strong>1+ yr</strong> — Production at Authect (backend + frontend), also my <a href="https://github.com/adro0303/landing-page">portfolio site</a></td></tr>
+<tr><td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"></td><td><strong>6+ mo</strong> — Personal projects: <a href="https://github.com/adro0303/simply-apply-firefox-autofill">browser extension</a>, <a href="https://github.com/adro0303/landing-page">portfolio tooling</a></td></tr>
+<tr><td><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"></td><td><strong>6+ mo</strong> — University coursework — OOP fundamentals (Minesweeper, recursion exercises)</td></tr>
+<tr><td><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"></td><td><strong>6+ mo</strong> — University coursework — <a href="https://github.com/adro0303/HospitalManager">HospitalManager</a>, a C++20/STL hospital management system</td></tr>
+<tr><td><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"></td><td><strong>6+ mo each</strong> — Personal static sites and <a href="https://github.com/adro0303/landing-page">portfolio</a> base styling</td></tr>
+<tr><td><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"></td><td><strong>6+ mo</strong> — PostgreSQL at Authect, SQLite in <a href="https://github.com/adro0303/auto_applyer">auto_applyer</a> — schema and query work across both</td></tr>
+<tr><td><img src="https://img.shields.io/badge/Shell%20%2F%20Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"></td><td><strong>1-2 yr</strong> — Automation and config scripting across <a href="https://github.com/adro0303/ipa-builder">ipa-builder</a>, <a href="https://github.com/adro0303/overclaude">overclaude</a>, and <a href="https://github.com/adro0303/pocket-server">pocket-server</a></td></tr>
 </table>
 
 **AI / Machine Learning**
 
 <table>
-<tr><td><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"></td><td>BSc final year project — built an MLP from scratch, benchmarked against 5 classical baselines (1-2 yr)</td></tr>
-<tr><td><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"></td><td>3 personal projects — anomaly detection, market forecasting, investor profiling (1-2 yr)</td></tr>
-<tr><td><img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"></td><td>Data pipeline for every ML project I've built, including a from-scratch neural net trained with NumPy alone (1-2 yr each)</td></tr>
-<tr><td><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"></td><td>Research and prototyping across all of the above (1-2 yr)</td></tr>
+<tr><td><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"></td><td><strong>1-2 yr</strong> — BSc final year project — built an MLP from scratch, benchmarked against 5 classical baselines in <a href="https://github.com/adro0303/macro-news-market-forecasting">macro-news-market-forecasting</a></td></tr>
+<tr><td><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"></td><td><strong>1-2 yr</strong> — 3 personal projects: <a href="https://github.com/adro0303/AI-LogAnomalyDetectionSystem">anomaly detection</a>, <a href="https://github.com/adro0303/macro-news-market-forecasting">market forecasting</a>, <a href="https://github.com/adro0303/mandate-investor-profiling-fyp">investor profiling</a></td></tr>
+<tr><td><img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"></td><td><strong>1-2 yr each</strong> — Data pipeline for every ML project I've built, including a from-scratch neural net trained with NumPy alone in <a href="https://github.com/adro0303/ai-tools">ai-tools</a></td></tr>
+<tr><td><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"></td><td><strong>1-2 yr</strong> — Research and prototyping across all of the above</td></tr>
 </table>
 
 **Backend, automation & tooling**
 
 <table>
-<tr><td><img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"></td><td>Production at Authect (1+ yr) — the multi-tenant SaaS backend behind the whole product</td></tr>
-<tr><td><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"></td><td><code>auto_applyer</code>'s full dashboard (Streamlit, 6+ mo) and lead/draft database</td></tr>
-<tr><td><img src="https://img.shields.io/badge/CLI%20tools-4D4D4D?style=flat-square&logo=gnubash&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/YAML%20configs-CB171E?style=flat-square&logo=yaml&logoColor=white"></td><td>Automation and config across <code>ipa-builder</code>, <code>overclaude</code>, and <code>pocket-server</code> (1-2 yr each)</td></tr>
-<tr><td><img src="https://img.shields.io/badge/SMTP-4D4D4D?style=flat-square&logo=gmail&logoColor=white"></td><td><code>auto_applyer</code>'s email drafting and send pipeline, gated behind manual approval (6+ mo)</td></tr>
+<tr><td><img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"></td><td><strong>1+ yr</strong> — Production at Authect — the multi-tenant SaaS backend behind the whole product</td></tr>
+<tr><td><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"></td><td><strong>6+ mo</strong> (Streamlit) — <a href="https://github.com/adro0303/auto_applyer">auto_applyer</a>'s full dashboard and lead/draft database (SQLite)</td></tr>
+<tr><td><img src="https://img.shields.io/badge/CLI%20tools-4D4D4D?style=flat-square&logo=gnubash&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/YAML%20configs-CB171E?style=flat-square&logo=yaml&logoColor=white"></td><td><strong>1-2 yr each</strong> — Automation and config across <a href="https://github.com/adro0303/ipa-builder">ipa-builder</a>, <a href="https://github.com/adro0303/overclaude">overclaude</a>, and <a href="https://github.com/adro0303/pocket-server">pocket-server</a></td></tr>
+<tr><td><img src="https://img.shields.io/badge/SMTP-4D4D4D?style=flat-square&logo=gmail&logoColor=white"></td><td><strong>6+ mo</strong> — <a href="https://github.com/adro0303/auto_applyer">auto_applyer</a>'s email drafting and send pipeline, gated behind manual approval</td></tr>
 </table>
 
 **Local AI infra**
 
 <table>
-<tr><td><img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/ComfyUI-2B2B2B?style=flat-square">&nbsp;<img src="https://img.shields.io/badge/Kokoro%20TTS-4D4D4D?style=flat-square">&nbsp;<img src="https://img.shields.io/badge/ffmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white"></td><td><code>youtube-ai-pipeline</code> — n8n (6+ mo) orchestrating ComfyUI (1-2 yr), Kokoro TTS (6+ mo) and ffmpeg (6+ mo) in a fully local, self-hosted narrated-video pipeline, no cloud inference</td></tr>
+<tr><td><img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/ComfyUI-2B2B2B?style=flat-square">&nbsp;<img src="https://img.shields.io/badge/Kokoro%20TTS-4D4D4D?style=flat-square">&nbsp;<img src="https://img.shields.io/badge/ffmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white"></td><td><strong>n8n 6+ mo</strong>, <strong>ComfyUI 1-2 yr</strong>, <strong>Kokoro TTS 6+ mo</strong>, <strong>ffmpeg 6+ mo</strong> — orchestrated in <a href="https://github.com/adro0303/youtube-ai-pipeline">youtube-ai-pipeline</a>, a fully local, self-hosted narrated-video pipeline, no cloud inference</td></tr>
 </table>
 
 **Frontend**
 
 <table>
-<tr><td><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">&nbsp;<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white"></td><td>Rebuilt my portfolio (ADRO_OS) from scratch — React 19 + Vite (6+ mo each), Tailwind CSS (1-2 yr), GSAP-pinned scroll and Framer Motion reveals (6+ mo each) — plus the <code>ai-tools</code> interactive demos</td></tr>
+<tr><td><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">&nbsp;<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white"></td><td><strong>React 19 + Vite 6+ mo each</strong>, <strong>Tailwind CSS 1-2 yr</strong>, <strong>GSAP + Framer Motion 6+ mo each</strong> — rebuilt my portfolio (<a href="https://github.com/adro0303/landing-page">ADRO_OS</a>) from scratch with a GSAP-pinned scroll and Framer Motion reveals — plus the <a href="https://github.com/adro0303/ai-tools">ai-tools</a> interactive demos</td></tr>
 </table>
 
 **CI/CD, DevOps & hosting**
 
 <table>
-<tr><td><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"></td><td>Production releases at Authect — also what <code>ipa-builder</code>'s entire build pipeline runs on (1+ yr)</td></tr>
-<tr><td><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"></td><td>Production at Authect — also containerized in 4+ personal projects (1+ yr)</td></tr>
-<tr><td><img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"></td><td><code>AI-LogAnomalyDetectionSystem</code>'s automated test suite (1-2 yr)</td></tr>
-<tr><td><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"></td><td>Daily, across every professional and personal project (2-3 yr)</td></tr>
-<tr><td><img src="https://img.shields.io/badge/gh%20CLI-181717?style=flat-square&logo=github&logoColor=white"></td><td><code>ipa-builder</code>'s scoped, fine-grained checkout of a separate target repo (1-2 yr)</td></tr>
-<tr><td><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"></td><td>Hosts my live portfolio (1-2 yr)</td></tr>
+<tr><td><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"></td><td><strong>1+ yr</strong> — Production releases at Authect — also what <a href="https://github.com/adro0303/ipa-builder">ipa-builder</a>'s entire build pipeline runs on</td></tr>
+<tr><td><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"></td><td><strong>1+ yr</strong> — Production at Authect — also containerized in 4+ personal projects</td></tr>
+<tr><td><img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"></td><td><strong>1-2 yr</strong> — <a href="https://github.com/adro0303/AI-LogAnomalyDetectionSystem">AI-LogAnomalyDetectionSystem</a>'s automated test suite</td></tr>
+<tr><td><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"></td><td><strong>2-3 yr</strong> — Daily, across every professional and personal project</td></tr>
+<tr><td><img src="https://img.shields.io/badge/gh%20CLI-181717?style=flat-square&logo=github&logoColor=white"></td><td><strong>1-2 yr</strong> — <a href="https://github.com/adro0303/ipa-builder">ipa-builder</a>'s scoped, fine-grained checkout of a separate target repo</td></tr>
+<tr><td><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"></td><td><strong>1-2 yr</strong> — Hosts my <a href="https://adrian-pliego.vercel.app/">live portfolio</a></td></tr>
 </table>
 
 **Practices**
