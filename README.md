@@ -52,7 +52,7 @@ Full details → [résumé (PDF)](https://adrian-pliego.vercel.app/resume.pdf) �
 <tr><td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"></td><td>Production at Authect (backend + frontend, 1+ yr) — also my portfolio site</td></tr>
 <tr><td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"></td><td>Personal projects — browser extension, portfolio tooling</td></tr>
 <tr><td><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"></td><td>University coursework — OOP fundamentals (Minesweeper, recursion exercises)</td></tr>
-<tr><td><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"></td><td>University coursework — <a href="https://github.com/adro0303/abCPLUS">abCPLUS</a>, a C++20/STL hospital management system</td></tr>
+<tr><td><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"></td><td>University coursework — <a href="https://github.com/adro0303/HospitalManager">HospitalManager</a>, a C++20/STL hospital management system</td></tr>
 <tr><td><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"></td><td>Personal static sites and portfolio base styling</td></tr>
 </table>
 
@@ -93,7 +93,7 @@ Full details → [résumé (PDF)](https://adrian-pliego.vercel.app/resume.pdf) �
 
 <table>
 <tr><td><img src="https://img.shields.io/badge/Agile-Scrum%20%2F%20Kanban-0052CC?style=flat-square&logo=jirasoftware&logoColor=white"></td><td>Practiced daily leading a 4-person team at Authect — short iterations, re-planning when priorities shift</td></tr>
-<tr><td><img src="https://img.shields.io/badge/SOLID-principles-4B8BBE?style=flat-square">&nbsp;<img src="https://img.shields.io/badge/OOP-object--oriented%20design-2E8B57?style=flat-square"></td><td>Applied in <code>abCPLUS</code>'s <code>Paciente</code>/<code>Medico</code>/<code>Cita</code> design (see Engineering mindset below)</td></tr>
+<tr><td><img src="https://img.shields.io/badge/SOLID-principles-4B8BBE?style=flat-square">&nbsp;<img src="https://img.shields.io/badge/OOP-object--oriented%20design-2E8B57?style=flat-square"></td><td>Applied in <code>HospitalManager</code>'s <code>Paciente</code>/<code>Medico</code>/<code>Cita</code> design (see Engineering mindset below)</td></tr>
 </table>
 
 <br>
@@ -268,7 +268,7 @@ Local tool that automates the boring parts of a job search — without turning i
 - One command that runs the whole pipeline beats ten manual steps in a README
 - Walk-forward validation isn't optional when the whole point is "did this actually generalize"
 - If a project of mine has a `Limitations` section, I probably wrote it myself before anyone had to ask
-- Reach for OOP + SOLID when the domain has real entities and relationships to model — see [`abCPLUS`](https://github.com/adro0303/abCPLUS)'s `Paciente`/`Medico`/`Cita` design — not just because it's expected
+- Reach for OOP + SOLID when the domain has real entities and relationships to model — see [`HospitalManager`](https://github.com/adro0303/HospitalManager)'s `Paciente`/`Medico`/`Cita` design — not just because it's expected
 - Work in short, iterative loops with visible scope cuts and honest retros — Agile as a working habit, not a slide
 
 <br>
