@@ -243,18 +243,18 @@ An old Android phone, de-Googled and rooted, turned into a 24/7 home server — 
 </td>
 <td width="50%" valign="top">
 
-### ✉️ [auto_applyer](https://github.com/adro0303/auto_applyer)
+### 🎯 [simply-apply-firefox-autofill](https://github.com/adro0303/simply-apply-firefox-autofill)
 
-Local tool that automates the boring parts of a job search — without turning into a spam bot.
+A fork of a local-first job-application tool, extended with a Firefox autofill extension and a guardrail that keeps a local LLM from lying on your resume.
 
-**Problem:** cold-emailing job leads by hand doesn't scale, but fully automating it turns into exactly the "AI spam" that gets you ignored or blocked.
-**Built:** a Python + Streamlit dashboard that imports and scores leads, drafts personalised emails, then holds every single one for manual approval before it can send — dry-run by default, rate-limited, live-sending needs an explicit double opt-in.
+**Problem:** tailoring a resume per job means doing it by hand every time, or trusting an LLM not to invent a skill, a job title, or a year of experience you don't have.
+**Built:** a Firefox extension (Greenhouse/Lever/Workday/Teamtailor, never auto-submits) plus a guardrail architecture that treats the base resume as the only source of truth — employer names, dates, education and contact info are locked in code rather than trusted to the model, free text is checked for fabricated numbers/tools/title inflation, and a bad line reverts on its own instead of discarding the whole tailored resume.
 
-`Python` `Streamlit` `SQLite` `SMTP`
+`Python` `FastAPI` `SQLite` `JavaScript` `Firefox WebExtension` `Ollama`
 
-**Why it's interesting:** built to run my own graduate job search — the safety controls (approval gate, rate limits, no test-data leaks) exist because I used it on real people, not sample data.
+**Why it's interesting:** every check in the guardrail exists because a local LLM genuinely tried that exact lie at least once against a real job posting, not a synthetic test case.
 
-→ [View project](https://github.com/adro0303/auto_applyer)
+→ [View project](https://github.com/adro0303/simply-apply-firefox-autofill)
 
 </td>
 </tr>
@@ -265,7 +265,7 @@ Local tool that automates the boring parts of a job search — without turning i
 ## Currently building
 
 - 📱 Just shipped **[pocket-server](https://github.com/adro0303/pocket-server)** — my most recently pushed project, turning an old Android phone into a home server
-- 🔒 Added a Firefox autofill extension + cover-letter generation to **[simply-apply-firefox-autofill](https://github.com/adro0303/simply-apply-firefox-autofill)**, a fork of an open-source job-search tool, with a security fix from my own review
+- 🔒 Rebuilt tailoring in **[simply-apply-firefox-autofill](https://github.com/adro0303/simply-apply-firefox-autofill)** around a guardrail that locks facts in code and reverts a bad line instead of the whole resume — plus Teamtailor support for the Firefox extension
 - 🎮 Pulled the interactive demos out of my portfolio's hidden terminal into their own repo: **[ai-tools](https://github.com/adro0303/ai-tools)** — sort/pathfinding visualizers and a from-scratch neural net digit recognizer
 - 📊 Working through the next steps I flagged myself in the FYP repos — time-series cross-validation and better regime coverage for the portfolio backtests
 - 🧰 Still looking for the next small, annoying manual task worth turning into a tool — that's how `auto_applyer` and `pocket-server` started
